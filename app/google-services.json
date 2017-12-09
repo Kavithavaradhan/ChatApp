@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "279433878197",
-    "firebase_url": "https://xamarinchatapp-35878.firebaseio.com",
-    "project_id": "xamarinchatapp-35878",
-    "storage_bucket": "xamarinchatapp-35878.appspot.com"
+    "project_number": "611636414356",
+    "firebase_url": "https://chatapp-718f6.firebaseio.com",
+    "project_id": "chatapp-718f6",
+    "storage_bucket": "chatapp-718f6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:279433878197:android:9f731b30a3f6c525",
+        "mobilesdk_app_id": "1:611636414356:android:9f731b30a3f6c525",
         "android_client_info": {
           "package_name": "dev.edmt.chatapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "279433878197-qooi4sh2ghg1dbhk2339n8a7csn8pau3.apps.googleusercontent.com",
+          "client_id": "611636414356-r5oj82aipo37ddolvlaucedncdgu00tj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "dev.edmt.chatapp",
-            "certificate_hash": "B2A5D0D2FBDA1976D9EA02862DD4BEDF6CFD50E1"
+            "certificate_hash": "bbda29b69112e9f752d6d9967cf6d50ee9f21876"
           }
         },
         {
-          "client_id": "279433878197-5tb8iahnquk075od67v0i9m659g257f4.apps.googleusercontent.com",
+          "client_id": "611636414356-mq98kpcn16r9bc9vr74dh456tb9t495m.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBVa8RYVf9ISfhCg0zuStLQj8rl1WeE6mc"
+          "current_key": "AIzaSyCwKV7-nyAHzQWT_5BxHtzb3r-u2yJU3rE"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "279433878197-5tb8iahnquk075od67v0i9m659g257f4.apps.googleusercontent.com",
+              "client_id": "611636414356-mq98kpcn16r9bc9vr74dh456tb9t495m.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
